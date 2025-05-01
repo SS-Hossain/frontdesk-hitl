@@ -46,7 +46,7 @@ This project was built as part of Frontdesk's engineering assessment and demonst
    python app.py
 4. **Test the AI agent (via Postman or curl)**
    Example with curl:
-   ``` curl -X POST http://127.0.0.1:5000/call -d "question=What are your working hours?"
+   ``` curl -X POST http://127.0.0.1:5000/call -d "question=What are your working hours?" ```
 ## 📂 Folder Structure
 ``` frontdesk-hitl/
 │
@@ -57,6 +57,7 @@ This project was built as part of Frontdesk's engineering assessment and demonst
 │   ├── admin.html         # Admin panel
 │   └── learned.html       # Learned answers viewer
 └── README.md              # You're reading it
+```
 
 ## 🧠 Design Decisions
 - JSON was used instead of a database to keep things lightweight and file-based.
