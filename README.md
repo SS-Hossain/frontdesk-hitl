@@ -45,7 +45,8 @@ This project was built as part of Frontdesk's engineering assessment and demonst
 3. **Run the app**
    python app.py
 4. **Test the AI agent (via Postman or curl)**
-   Example with curl:
+
+   **Example with curl:**
    ```
    curl -X POST http://127.0.0.1:5000/call -d "question=What are your working hours?"
     ```
