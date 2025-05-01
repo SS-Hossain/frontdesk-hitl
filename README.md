@@ -46,9 +46,9 @@ This project was built as part of Frontdesk's engineering assessment and demonst
    python app.py
 4. **Test the AI agent (via Postman or curl)**
    Example with curl:
-   curl -X POST http://127.0.0.1:5000/call -d "question=What are your working hours?"
+   ``` curl -X POST http://127.0.0.1:5000/call -d "question=What are your working hours?"
 ## 📂 Folder Structure
-frontdesk-hitl/
+``` frontdesk-hitl/
 │
 ├── app.py                 # Flask server
 ├── help_requests.json     # Simulated DB of help tickets
