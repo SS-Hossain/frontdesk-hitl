@@ -1,0 +1,37 @@
+[
+    {
+        "id": "80aeec2b-32a1-46f5-b827-1880a7532719",
+        "question": "what are your prices?",
+        "status": "resolved",
+        "timestamp": "2025-04-29 20:22:49",
+        "response": "Our price starts at $20"
+    },
+    {
+        "id": "02e863c2-864d-4cb0-b08b-23fa354224f5",
+        "question": "your working dates?",
+        "status": "resolved",
+        "timestamp": "2025-04-29 20:27:19",
+        "response": "Monday to Friday"
+    },
+    {
+        "id": "df8a6211-e616-499b-aa8f-29d5286e495d",
+        "question": "what is the maintenance fee?",
+        "status": "resolved",
+        "timestamp": "2025-04-29 20:35:49",
+        "response": "5$/month"
+    },
+    {
+        "id": "3432be8d-695f-4148-b88c-74bde2cd6478",
+        "question": "what are your working dates?",
+        "status": "resolved",
+        "timestamp": "2025-05-01 12:26:52",
+        "response": "Monday to Friday"
+    },
+    {
+        "id": "06a69e07-2fa5-42fa-9b44-44208e3ca7ab",
+        "question": "what\u2019s your membership refund policy?",
+        "status": "resolved",
+        "timestamp": "2025-05-01 12:47:50",
+        "response": "Within 1 Day"
+    }
+]
