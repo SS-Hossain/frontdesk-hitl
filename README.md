@@ -38,12 +38,15 @@ This project was built as part of Frontdesk's engineering assessment and demonst
    cd frontdesk-hitl
    
 2. **Set up virtual environment**
+    ```
     python -m venv venv
     venv\Scripts\activate  # (Windows) or source venv/bin/activate (Linux/macOS)
     pip install flask
-
+    ```
 3. **Run the app**
+  ```
    python app.py
+  ```
 4. **Test the AI agent (via Postman or curl)**
 
    **Example with curl:**
